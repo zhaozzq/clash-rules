@@ -1,0 +1,25 @@
+payload:
+  - DOMAIN-SUFFIX,pointfree.co
+  - DOMAIN-SUFFIX,shorebird.dev
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,donnywals.com
+  - DOMAIN-SUFFIX,fatbobman.com
+  - DOMAIN-SUFFIX,screensizes.app
+  - DOMAIN-SUFFIX,jdx.dev
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,xcodereleases.com
+  - DOMAIN-SUFFIX,typescriptlang.org
+  - DOMAIN-KEYWORD,notion
+  - DOMAIN-SUFFIX,theswiftdev.com
+  - DOMAIN-SUFFIX,astral.sh
+  - DOMAIN-SUFFIX,unsplash.com
+  - DOMAIN-SUFFIX,bigmountainstudio.com
+  - DOMAIN-SUFFIX,herokuapp.com
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,tailwindcss.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,1password.com

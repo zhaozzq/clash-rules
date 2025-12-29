@@ -1,0 +1,29 @@
+payload:
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,gemini
+  - DOMAIN-KEYWORD,aistudio
+  - DOMAIN-SUFFIX,pay.openai.com
+  - DOMAIN-SUFFIX,chat.openai.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,auth0.openai.com
+  - DOMAIN-SUFFIX,platform.openai.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,invoice.stripe.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,justmysocks.ne
+  - DOMAIN-SUFFIX,ai.meta.com
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,devv.ai
+  - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,v0.dev
+  - DOMAIN-SUFFIX,v0.app
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,qwen.ai
+  - DOMAIN-SUFFIX,ai.studio
+
+
+  
