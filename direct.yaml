@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,aws.com
   - DOMAIN-KEYWORD,kiro
   - DOMAIN-KEYWORD,amazon
