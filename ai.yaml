@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-SUFFIX,ai.studio
+  - DOMAIN-SUFFIX,withgoogle.com
 
 
   
