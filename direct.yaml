@@ -1,2 +1,7 @@
 payload:
-
+  - DOMAIN-SUFFIX,weixin.qq.com
+  - DOMAIN-SUFFIX,wechat.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,gtimg.com
+  - DOMAIN-SUFFIX,myqcloud.com
