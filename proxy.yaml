@@ -24,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,schemastore.org
